@@ -30,32 +30,16 @@ Visual tools were employed to enhance interpretation:
 - **Scatter Plots** were used to explore relationships between grades and risk.
 - **Category Distributions** helped identify trends by groupings such as school support or family background.
 
-#### Composite Risk Score Bar Chart
-![Risk Score Bar Chart](risk_bar_chart.png)
+![Risk Score Bar Chart](images/risk_bar_chart.png)
+![Risk vs Grade](images/risk_vs_grade.png)
+![Final Risk](images/final_risk.png)
+![Final Grade](images/final_grade.png)
+![Final Grade Mean](images/final_grade_mean.png)
+![Category Distribution](images/category_distribution.png)
+![Academic Score](images/academic_score.png)
+![Sub-Index](images/sub-index.png)
+![Bottom Ten](images/bottom_ten.png)
 
-#### Final Grade vs Risk Scatter Plot
-![Risk vs Grade](risk_vs_grade.png)
-
-#### Final Composite Risk Scores
-![Final Risk](final_risk.png)
-
-#### Final Grades Distribution
-![Final Grade](final_grade.png)
-
-#### Final Grade Mean per Category
-![Final Grade Mean](final_grade_mean.png)
-
-#### Category Distribution
-![Category Distribution](category_distribution.png)
-
-#### Academic Score Distribution
-![Academic Score](academic_score.png)
-
-#### Sub-Index Components Breakdown
-![Sub-Index](sub-index.png)
-
-#### Bottom 10 At-Risk Students
-![Bottom Ten](bottom_ten.png)
 
 
 7. Link to Other Indices
